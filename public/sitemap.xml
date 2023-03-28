@@ -1,38 +1,52 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<urlset
-      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
-            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
-
-
-<url>
-  <loc>https://www.usimportdata.com/</loc>
-  <lastmod>2023-01-19T05:04:45+00:00</lastmod>
-</url>
-<url>
-  <loc>https://www.usimportdata.com/about</loc>
-  <lastmod>2023-01-19T05:04:45+00:00</lastmod>
-</url>
-<url>
-  <loc>https://www.usimportdata.com/import-data</loc>
-  <lastmod>2023-01-19T05:04:45+00:00</lastmod>
-</url>
-<url>
-  <loc>https://www.usimportdata.com/export-data</loc>
-  <lastmod>2023-01-19T05:04:45+00:00</lastmod>
-</url>
-<url>
-  <loc>https://www.usimportdata.com/select-live-data</loc>
-  <lastmod>2023-01-19T05:04:45+00:00</lastmod>
-</url>
-<url>
-  <loc>https://www.usimportdata.com/contact</loc>
-  <lastmod>2023-01-19T05:04:45+00:00</lastmod>
-</url>
-<url>
-  <loc>https://www.usimportdata.com/faq</loc>
-  <lastmod>2023-01-19T05:04:45+00:00</lastmod>
-</url>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://www.usimportdata.com/</loc>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://www.usimportdata.com/about</loc>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url> 
+  <url>
+    <loc>https://www.usimportdata.com/import-data</loc>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url> 
+  <url>
+    <loc>https://www.usimportdata.com/export-data</loc>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url> 
+  <url>
+    <loc>https://www.usimportdata.com/search-live-data</loc>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url> 
+  <url>
+    <loc>https://www.usimportdata.com/contact</loc>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url> 
+  <url>
+   <loc>https://www.usimportdata.com/faqs</loc>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <url>
+   <loc>https://www.usimportdata.com/terms-of-use</loc>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <url>
+   <loc>https://www.usimportdata.com/privacy-policy</loc>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <url>
+   <loc>https://www.usimportdata.com/disclaimer</loc>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url> 
 </urlset>
